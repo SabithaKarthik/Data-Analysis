@@ -6,3 +6,4 @@ Took Tips dataset from sns package and performed the following test as part of d
 - Hypothesis Test
 - Data visvalization
 - Data preprocessing
+- implemented K-means clustering algorithm
